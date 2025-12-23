@@ -20,6 +20,10 @@ Week 1 (Python🐍)
 - Basic command lines                       (✅ Complete)
 - Basic Syntax                              (✅ Complete)
 - Variables, Type casting, User input, Math (✅ Complete)
-- If statements(if, elif, else)             (🔄 In Progress)
+- If statements(if, elif, else)             (✅ Complete)
+
+Week 2
+- String formatting                         (✅ Complete)
+- Logical operators                         (🔄 In Progress)
 
 I am building this public repository to track my growth, stay accountable, and create a learning timeline that shows consistency, discipline, and improvement.
